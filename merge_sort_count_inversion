@@ -79,7 +79,7 @@ def main():
 
     #uncomment the following codes to read data from a text
     #with open("test_merge_sort_array.txt", 'r') as file:
-    #with open("IA.txt", 'r') as file:
+    #with open("test.txt", 'r') as file:
     #    for line in file:
     #        original_array.append(int(line))
         
