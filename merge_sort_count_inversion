@@ -76,7 +76,8 @@ def complex_inversion(a): #this is to check the correctness of the number of inv
 
 def main():
     global inversion
-    original_array = []
+
+    #uncomment the following codes to read data from a text
     #with open("test_merge_sort_array.txt", 'r') as file:
     #with open("IA.txt", 'r') as file:
     #    for line in file:
@@ -84,9 +85,14 @@ def main():
         
     original_array = [1,2,4,6,7,5,3,9]
     
+    
     print(f"The original array is {original_array}");
+    
+    #sort array
     sorted_array = merge_sort(original_array)
     print(f"The sorted array is {sorted_array}");
+    
+    #count inversion
     print(f"There are {inversion} inversions found")
     naive = complex_inversion(original_array)
     print(f"CHECK, usint the naive algorithm, inversion is {naive}")
