@@ -17,6 +17,8 @@ This repository includes implementations of various kinds of algorithms in PYTHO
     - 2.3.1 Given Array info: 
     - 2.3.1.1 Random, non-repeated number between (1,100000)
     - 2.3.1.2 Size: 99999
+    - 2.3.1.3 File name: my_qs_test.txt
+    - Notice: you can generate your own random size array made up of random integers.
   - 2.4 Analysis: 
     - 2.4.1 choice of pivot matters significantly to how the algorithms performs. This script implemented three ways of choosing pivot.
       - 2.4.1.1 Always choose the first element as the pivot. (Notice: first means index)
