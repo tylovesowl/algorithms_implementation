@@ -158,7 +158,7 @@ def main(original_list): #takes original list
   
 
 if __name__ == '__main__':
-    original_list = read_file("my_test.txt")
+    original_list = read_file("my_qs_test.txt")
     #original_list = read_file("QuickSort.txt")
     #original_list = read_file("qs.txt")
     #print(original_list)
