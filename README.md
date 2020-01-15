@@ -12,7 +12,7 @@ This repository includes implementations of various kinds of algorithms in PYTHO
   
 - ## 2. **Quick Sort** 
   - 2.1 Algorith: quick sort
-  - 2.2 Complexity: O(nlogn)
+  - 2.2 Complexity: O(nlogn) [average bound]
   - 2.3 Function: the scripts can count the times of comparing pivot and other elements in a given array. (this comparison dominates the complexity)
     - 2.3.1 Given Array info: 
     - 2.3.1.1 Random, non-repeated number between (1,100000)
