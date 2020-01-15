@@ -1,7 +1,7 @@
 # algorithms_implementation
 This repository includes implementations of various kinds of algorithms in PYTHON3
 
-- 1. Merge Sort 
+- ## 1. **Merge Sort** 
   - 1.1 Algorithm: merge sort.
   - 1.2 Complexity: O(nlogn)
   - 1.3 Function: the scripts can count the inversions of a given array, in which no repetitive numbers is guaranteed.
@@ -10,7 +10,7 @@ This repository includes implementations of various kinds of algorithms in PYTHO
     -  1.3.1.2 Size: 9999
   - 1.4 Focus: Master Method
   
-- 2. Quick Sort 
+- ## 2. **Quick Sort** 
   - 2.1 Algorith: quick sort
   - 2.2 Complexity: O(nlogn)
   - 2.3 Function: the scripts can count the times of comparing pivot and other elements in a given array. (this comparison dominates the complexity)
